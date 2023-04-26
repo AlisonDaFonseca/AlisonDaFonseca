@@ -1,6 +1,9 @@
 ## Hello There 👋
 
+<img align="right" alt="GIF" src="https://github.com/AlisonDaFonseca/AlisonDaFonseca/blob/main/code.gif?raw=true" width="500" height="320" />
 Meu nome é Alison. Atualmente sou estudade de Engenharia de Software pela Driven Education e estou cursando Superior em Análise e Desenvolvimento de Sistemas pela faculdade Uninter.
+
+ 
 
 ## Languages:
 <div style="display: inline_block"><br>
