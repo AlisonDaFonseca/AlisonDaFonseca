@@ -1,4 +1,6 @@
-## Software Engineer student 😁
+## Hello There 👋
+
+Meu nome é Alison. Atualmente sou estudade de Engenharia de Software pela Driven Education e estou cursando Superior em Análise e Desenvolvimento de Sistemas pela faculdade Uninter.
 
  <div>
    <a href="https://github.com/AlisonDaFonseca">
